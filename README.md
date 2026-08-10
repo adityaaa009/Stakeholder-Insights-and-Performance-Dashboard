@@ -1,4 +1,4 @@
-https://github.com/adityaaa009/Stakeholder-Insights-and-Performance-Dashboard/blob/main/Dashboard
+![Dashboard Preview].(https://github.com/adityaaa009/Stakeholder-Insights-and-Performance-Dashboard/blob/main/Screenshot%202026-08-10%20091359.png)
 # Stakeholder-Insights-and-Performance-Dashboard
 An Interactive Tableau Dashboard for Insurance, Stakeholder &amp; Business Performance Analysis
 
